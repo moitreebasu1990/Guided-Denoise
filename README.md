@@ -10,7 +10,7 @@ The team members are:
 
 Fangzhou Liao
 
-Ming Liang
+goodrobot
 
 Tianyu Pang
 
